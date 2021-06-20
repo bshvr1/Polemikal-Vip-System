@@ -1,0 +1,12 @@
+bot: 
+   token: "Nzk3NTUyMzQwNzEwMDY0MTcx.X_oIfw.BYHEmBGPGUbJKUe2uuPj6Z8Nupc"
+   prefix: "."
+   owners: ["690694450732597329"]
+
+server: 
+   voiceChannel: "797040984751865876"
+   hosgeldin: "hosgeldin.mp3"
+   tagliAlim: "hosgeldin.mp3"
+   yetkiliGiris: "yetkili.mp3"
+   toplantı: "hosgeldin.mp3"
+   register: "797040807634534431"
