@@ -14,7 +14,7 @@ client.login(config.bot.token).then(() => console.log(`[${client.user.tag}] succ
 let status = false;
 
 client.on("ready", () => {
-      client.user.setPresence({ activity: { name: `Ses Sistemi İçin ꑕ Shinè#5005 ❤️` , type: "PLAYING"}, status: 'dnd' })
+      client.user.setPresence({ activity: { name: `` , type: "PLAYING"}, status: 'dnd' })
       client.staffJoined = false;
 	  client.vc = null;
       client.channels.cache.get(config.server.voiceChannel).join().then(async connection => {
